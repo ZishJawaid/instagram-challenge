@@ -1,0 +1,4 @@
+com/makersacademy/acebook/model/Post.class
+com/makersacademy/acebook/repository/PostRepository.class
+com/makersacademy/acebook/Application.class
+com/makersacademy/acebook/controller/HomeController.class
