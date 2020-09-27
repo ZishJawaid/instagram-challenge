@@ -1,4 +1,4 @@
-package com.example.uploadingfiles.storage;
+package com.zish.instagram.storage;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;

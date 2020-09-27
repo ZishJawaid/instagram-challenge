@@ -1,4 +1,4 @@
-package com.example.uploadingfiles.storage;
+package com.zish.instagram.storage;
 
 public class StorageFileNotFoundException extends StorageException {
 
